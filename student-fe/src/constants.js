@@ -1,0 +1,4 @@
+const API_URL = "http://localhost:8000/api/students/";
+
+
+export {API_URL}
